@@ -37,7 +37,7 @@
 | :technologist: [ **김상진** ](https://github.com/sangxxjin) | Backend | 이력서 기능 구현 / UI 디자인 |
 | :technologist: [ **김누리** ](https://github.com/NRKim93) | Backend | 유저 로그인 기능 구현 / UI 디자인 |
 | :technologist: [ **이세연** ](https://github.com/seeyeon) | Backend | 프로젝트 기능 구현 / UI 디자인 |
-| :technologist: [ **권보경** ](https://github.com/pingu0118) | Backend | 게시판 기능 구현 & UI, 공통 기능 UI |
+| :technologist: [ **권보경** ](https://github.com/pingu0118) | Backend | 게시판 & 공통 기능 구현 / UI 디자인 |
 | :technologist: [ **이상억** ](https://github.com/leesangeok) | Backend | 관리자 로그인 기능 구현 / UI 디자인 |
 
 ---
